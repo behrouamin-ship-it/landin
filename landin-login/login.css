@@ -1,0 +1,156 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+@font-face{
+font-family:estedad;
+src: url(../Estedad[wght\,kshd].ttf);
+}
+.wraper{
+display: flex;
+}
+.right{
+width: 60%;
+height: 1031px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.col-r{
+width: 350px;
+height: 600px;
+margin-top: 200px;
+font-family:estedad;
+
+}
+.head-login{
+display: flex;
+justify-content: space-between;
+height: 78px;
+width: 100%;
+}
+.head-login p{
+font-size: 20px;
+font-weight: 700;
+font-family:estedad;
+}
+.head-login img{
+width: 34px;
+width: 100px;
+margin-top: -40px;
+}
+.input-1{
+display: flex;
+flex-direction: column;
+}
+input{
+width: 350px;
+height: 42px;
+border: 0.5px solid rgb(201, 201, 201);
+border-radius: 10px;
+margin-bottom: 10px;
+}
+.input-1{
+height: 220px;
+}
+.input-1 p{
+text-align: center;
+font-size: 14px;
+color: #afafaf;
+}
+.in-3{
+background-color:#26cc83;
+margin-top: 25px;
+margin-bottom: 20px;
+}
+.in-3{
+color: #fff;
+font-family:estedad;
+font-size: 15px;
+}
+::placeholder{
+font-family:estedad;
+padding-right: 15px;
+}
+.left{
+width: 40%;
+height: 1031px;
+background-color: #583efc;
+justify-content: center;
+align-items: center;
+display: flex;
+}
+.col-l{
+width: 640px;
+height: 392px;
+color: white;
+margin-top: 200px;
+}
+.img-1{
+position: absolute;
+top: 0;
+left: -60px;
+}
+.img-11{
+position: absolute;
+top: -30px;
+left: -400px;
+}
+.img-12{
+position: absolute;
+top: 0;
+left: -300px;
+}
+.matn{
+font-family:estedad;
+}
+.matn p{
+margin: 20px 0 25px 0;
+}
+.kh1{
+font-size: 18px;
+letter-spacing: 20px;
+}
+.kh2{
+font-size: 16px;
+letter-spacing: 20px;
+}
+.kh3{
+font-size: 18px;
+letter-spacing: 20px;
+text-align: left;
+margin-top: 30px;
+}
+a{
+text-decoration: none;
+color: white;
+}
+.aa{
+color: #000;
+}
+.ins-4{
+color: #6860e0;
+background-color:#eef1fa;
+font-family:estedad;
+font-size: 16px;
+margin-bottom: 25px;
+margin-top: 10px;
+}
+.ins-5{
+background-color:#ffffff;
+font-family:estedad;
+font-size: 16px;
+color: #b3b3b3;
+}
+.input-77 p{
+font-size: 14px;
+color: #b3b3b3;
+text-align: center;
+margin-top: 10px;
+}
+.input-77 span{
+font-size: 16px;
+color: #6860e0;
+
+}
