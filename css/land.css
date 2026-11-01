@@ -5,7 +5,7 @@ box-sizing: border-box;
 }
 @font-face{
 font-family:estedad;
-src: url(./Estedad[wght\,kshd].ttf);
+src: url(../fonts/Estedad[wght\,kshd].ttf);
 }
 header{
 width:50%;
